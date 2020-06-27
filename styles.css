@@ -1,0 +1,132 @@
+.imagenCarrusel {
+  object-fit: cover;
+  width: 35vw;
+  height: 800px;
+}
+
+.imagenFormulario {
+  object-fit: cover;
+  height: 450px;
+}
+
+.imagenOfertas {
+  object-fit: cover;
+  height: 300px;
+}
+
+.transparente {
+  background-color: transparent;
+}
+
+.naranja {
+    background-color: #FF6D00;
+}
+
+.imagenPersonas {
+  object-fit: cover;
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  margin: 0px 5px 0px 5px;
+}
+
+.formulario {
+  min-width: 200px;
+}
+
+.centrado {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fondoCeleste {
+    background-color: #45c0ef;
+}
+
+.borde naranja {
+    background-color: #FF6D00;
+}
+
+.imagen100 {
+  width: 100%;
+}
+
+.tamanoLetraFormulario {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+
+.anchoFormulario {
+  min-width: 332px;
+}
+
+.tostada {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 300px;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.negrito:hover, .negrito:active {
+    color: black;
+    margin-left: 0px;
+}
+
+.badge:hover {
+    transition-duration: 0s;
+}
+
+.expandido:hover {
+    letter-spacing: 5px;
+    transition-duration: 0.2s;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.normal{
+    cursor: context-menu;
+}
+
+.zoom{
+  cursor: zoom-in;
+}
+
+.help {
+  cursor: help;
+}
+
+.alturaDiv {
+    min-height: 66px;
+}
+
+.blanco {
+  color: white;
+}
+
+.oculto {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .card-columns {
+    column-count: 1;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-columns {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-columns {
+    column-count: 3;
+  }
+}
