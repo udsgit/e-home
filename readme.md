@@ -1,27 +1,54 @@
 # **E-Home**
 
-## **Resumen**
+Web Application that simulates being the portal of a real estate 🏬 called "E-Home".
 
-Es una aplicación web que simula ser la página principal de una inmobiliaria llamada "E-Home", la cual incluye un buscador de viviendas.
+## **Table of contents**
 
-## **Información sobre el proyecto**
+- [**E-Home**](#e-home)
+  - [**Table of contents**](#table-of-contents)
+  - [**General info**](#general-info)
+  - [**Screenshots**](#screenshots)
+  - [**Technologies**](#technologies)
+  - [**Setup**](#setup)
+  - [**Usage**](#usage)
+  - [**Status**](#status)
+  - [**Contact**](#contact)
 
-**Motivo:** Practicar Bootstrap 4.  
-**Fecha:** Diciembre 2019.  
-**Duración:** 1 Semana.  
-**Autor:** Emmanuel González.
+## **General info**
 
-**Comentarios:** La idea de este proyecto era hacer una web con **diseño responsivo** utilizando los componentes de **Bootstrap 4**, por lo tanto esta sobrecargados de ellos y para lograr una mínima funcionalidad también tiene un poco de **JS** y **JQuery**.
+**Date**: December, 2019.  
+**Duration**: 1 Week.  
 
-## **Web interactiva**
+This project was created in order to use the vast majority of **Bootstrap 4** components, for this reason it is overloaded with them 🤪. To have a certain functionality, a little of **JS** and **JQuery** have been added along with a list of 20 fictional houses to be able to use the filters. Additionally, the rest of the information on the page is fictitious.
 
-https://udsgit.github.io/e-home
+## **Screenshots**
 
-## **Instalación**
+![](imagenes/otros/ehome.gif)
 
-No tiene instalación, simplemente hay que clonar/descargar el repositorio.
+## **Technologies**
 
-## **Guía de uso**
+* [Bootstrap 4](https://getbootstrap.com/docs/4.1)
+* [Vanilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JQuery](https://jquery.com/)
 
-1. Abrir el enlace del apartado **Web Interactiva** o ejecutar el archivo **index.html** con el navegador.
-2. Interactuar con la web utilizando el formulario para filtrar viviendas o cualquier enlace/botón de la web.
+## **Setup**
+
+It has no installation, you just need to clone or download the repository.
+
+```console
+git clone https://github.com/udsgit/random-teg.git
+```
+## **Usage**
+
+1. Open the link from the [Demo](https://udsgit.github.io/e-home) or open the file **index.html** if you downloaded it.
+2. Now you can interact with the web, everything is interactive including the form.
+
+## **Status**
+
+Project is: ***Completed.***
+
+Because the functionality was to practice with **Bootstrap 4** and its components.
+
+## **Contact**
+
+Created by [@Emmanuel](https://www.linkedin.com/in/emagleza/), feel free to contact me!
