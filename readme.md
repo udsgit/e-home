@@ -36,7 +36,7 @@ This project was created in order to use the vast majority of **Bootstrap 4** co
 It has no installation, you just need to clone or download the repository.
 
 ```console
-git clone https://github.com/udsgit/random-teg.git
+git clone https://github.com/udsgit/e-home.git
 ```
 ## **Usage**
 
