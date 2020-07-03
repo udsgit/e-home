@@ -1,6 +1,6 @@
 # **E-Home**
 
-Web Application that simulates being the portal of a real estate 🏬 called "E-Home".
+Web Application that simulates being the portal of a real estate 🏬 called **E-Home**.
 
 ## **Table of contents**
 
