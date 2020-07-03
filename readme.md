@@ -26,10 +26,12 @@ This project was created in order to use the vast majority of **Bootstrap 4** co
 ![](imagenes/otros/ehome.gif)
 
 ## **Technologies**
+* **Html**
+* **Css**
+* **JavaScript**
+* [**JQuery**](https://jquery.com/)
+* [**Bootstrap 4**](https://getbootstrap.com/docs/4.1)
 
-* [Bootstrap 4](https://getbootstrap.com/docs/4.1)
-* [Vanilla JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [JQuery](https://jquery.com/)
 
 ## **Setup**
 
