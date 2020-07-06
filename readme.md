@@ -9,7 +9,6 @@ Web Application that simulates being the portal of a real estate 🏬 called **E
   - [**General info**](#general-info)
   - [**Demo**](#demo)
   - [**Screenshots**](#screenshots)
-  - [**Screenshots**](#screenshots-1)
   - [**Technologies**](#technologies)
   - [**Setup**](#setup)
   - [**Usage**](#usage)
@@ -33,10 +32,6 @@ You can try it using the [Demo](https://udsgit.github.io/e-home)
 
 > <img src="imagenes/readme/buscador.jpg" height="150"/>
 > <img src="imagenes/readme/destacados.jpg" height="150"/><br><i>Search Engine and Featured</i>
-
-## **Screenshots**
-
-![](imagenes/otros/ehome.gif)
 
 ## **Technologies**
 
